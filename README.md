@@ -23,49 +23,50 @@ Data Preparation	Data Cleaning
 Data Modeling	Power BI Data Model
 Analytics	DAX Measures
 Reporting	Business Intelligence Reporting
+
 📈 Dashboard Features
 🔹 KPI Overview
 
 The dashboard provides key business metrics including:
-
 Total Customers
 Average Customer Income
 Customer Segmentation Overview
+
 🔹 Customer Segmentation Analysis
 
 Customer groups are classified based on spending behavior to identify:
-
 Regular Customers
 VIP Customers
-
 This enables businesses to prioritize customer engagement and retention efforts.
 
 🔹 Spending Behavior Analysis
 
 Customer spending patterns are analyzed across:
-
 Customer Spending by Marital Status
 Married
 Together
 Single
 Divorced
 Widow
+
 Customer Spending by Education Level
 Graduation
 PhD
 Master
 2n Cycle
 Basic
+
 🔹 Business Insights
 
 The dashboard highlights:
-
 Customer Demographics Analysis
 Revenue Contribution Analysis
 Customer Segmentation Analysis
 Spending Pattern Analysis
+
 📷 Dashboard Preview
 <img width="1307" height="741" alt="customer_intelligence_screenshot" src="https://github.com/user-attachments/assets/9276c5b6-8de6-4d9b-bda6-a80cd1222101" />
+
 🔍 Key Findings
 📌 Customer Segmentation
 Regular customers represent approximately 73% of the customer base.
